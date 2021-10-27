@@ -1,0 +1,16 @@
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\VisualStudioConsoleAppTest\VisualStudioConsoleAppTest\bin\Debug\net5.0\VisualStudioConsoleAppTest.exe
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\VisualStudioConsoleAppTest\VisualStudioConsoleAppTest\bin\Debug\net5.0\VisualStudioConsoleAppTest.deps.json
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\VisualStudioConsoleAppTest\VisualStudioConsoleAppTest\bin\Debug\net5.0\VisualStudioConsoleAppTest.runtimeconfig.json
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\VisualStudioConsoleAppTest\VisualStudioConsoleAppTest\bin\Debug\net5.0\VisualStudioConsoleAppTest.runtimeconfig.dev.json
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\VisualStudioConsoleAppTest\VisualStudioConsoleAppTest\bin\Debug\net5.0\VisualStudioConsoleAppTest.dll
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\VisualStudioConsoleAppTest\VisualStudioConsoleAppTest\bin\Debug\net5.0\ref\VisualStudioConsoleAppTest.dll
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\VisualStudioConsoleAppTest\VisualStudioConsoleAppTest\bin\Debug\net5.0\VisualStudioConsoleAppTest.pdb
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\VisualStudioConsoleAppTest\VisualStudioConsoleAppTest\obj\Debug\net5.0\VisualStudioConsoleAppTest.csproj.AssemblyReference.cache
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\VisualStudioConsoleAppTest\VisualStudioConsoleAppTest\obj\Debug\net5.0\VisualStudioConsoleAppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\VisualStudioConsoleAppTest\VisualStudioConsoleAppTest\obj\Debug\net5.0\VisualStudioConsoleAppTest.AssemblyInfoInputs.cache
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\VisualStudioConsoleAppTest\VisualStudioConsoleAppTest\obj\Debug\net5.0\VisualStudioConsoleAppTest.AssemblyInfo.cs
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\VisualStudioConsoleAppTest\VisualStudioConsoleAppTest\obj\Debug\net5.0\VisualStudioConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\VisualStudioConsoleAppTest\VisualStudioConsoleAppTest\obj\Debug\net5.0\VisualStudioConsoleAppTest.dll
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\VisualStudioConsoleAppTest\VisualStudioConsoleAppTest\obj\Debug\net5.0\ref\VisualStudioConsoleAppTest.dll
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\VisualStudioConsoleAppTest\VisualStudioConsoleAppTest\obj\Debug\net5.0\VisualStudioConsoleAppTest.pdb
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\VisualStudioConsoleAppTest\VisualStudioConsoleAppTest\obj\Debug\net5.0\VisualStudioConsoleAppTest.genruntimeconfig.cache
