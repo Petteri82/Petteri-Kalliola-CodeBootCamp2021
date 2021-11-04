@@ -1,0 +1,5 @@
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\DateDemo\obj\Debug\net5.0\DateDemo.csproj.AssemblyReference.cache
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\DateDemo\obj\Debug\net5.0\DateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\DateDemo\obj\Debug\net5.0\DateDemo.AssemblyInfoInputs.cache
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\DateDemo\obj\Debug\net5.0\DateDemo.AssemblyInfo.cs
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\DateDemo\obj\Debug\net5.0\DateDemo.csproj.CoreCompileInputs.cache

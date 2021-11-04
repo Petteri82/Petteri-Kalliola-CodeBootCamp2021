@@ -1,0 +1,16 @@
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\CalculateNumber\bin\Debug\net5.0\CalculateNumber.exe
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\CalculateNumber\bin\Debug\net5.0\CalculateNumber.deps.json
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\CalculateNumber\bin\Debug\net5.0\CalculateNumber.runtimeconfig.json
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\CalculateNumber\bin\Debug\net5.0\CalculateNumber.runtimeconfig.dev.json
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\CalculateNumber\bin\Debug\net5.0\CalculateNumber.dll
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\CalculateNumber\bin\Debug\net5.0\ref\CalculateNumber.dll
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\CalculateNumber\bin\Debug\net5.0\CalculateNumber.pdb
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\CalculateNumber\obj\Debug\net5.0\CalculateNumber.csproj.AssemblyReference.cache
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\CalculateNumber\obj\Debug\net5.0\CalculateNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\CalculateNumber\obj\Debug\net5.0\CalculateNumber.AssemblyInfoInputs.cache
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\CalculateNumber\obj\Debug\net5.0\CalculateNumber.AssemblyInfo.cs
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\CalculateNumber\obj\Debug\net5.0\CalculateNumber.csproj.CoreCompileInputs.cache
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\CalculateNumber\obj\Debug\net5.0\CalculateNumber.dll
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\CalculateNumber\obj\Debug\net5.0\ref\CalculateNumber.dll
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\CalculateNumber\obj\Debug\net5.0\CalculateNumber.pdb
+C:\Users\dece_\Documents\Code Bootcamp\Dotnet\CalculateNumber\obj\Debug\net5.0\CalculateNumber.genruntimeconfig.cache

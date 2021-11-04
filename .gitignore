@@ -3,3 +3,7 @@
 ################################################################################
 
 /SqlConnectDemo/bin/Debug/net5.0/ref
+/SqlConnectDemo/obj
+/SqlConnectDemo/.vscode
+/SqlConnectDemo/SqlConnectDemo.csproj
+/SqlConnectDemo/.vs/SqlConnectDemo/v16/.suo
