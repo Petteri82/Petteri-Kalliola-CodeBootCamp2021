@@ -3,10 +3,21 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import MyComponent from './MyComponent';
+import MyFunction from './MyFunction';
+import LifeCycleDemo from './LifeCycleDemo';
+
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    <MyComponent/>
+    <MyComponent/>
+    <MyComponent/>
+    <MyComponent/>
+    <MyFunction/>
+    <MyFunction/>
+    <LifeCycleDemo/>
   </React.StrictMode>,
   document.getElementById('root')
 );
